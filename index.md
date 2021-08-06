@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Lime Engine
 
-You can use the [editor on GitHub](https://github.com/Lime-Engine/Lime-Engine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**If you want to help on the project you can suggest features and bugs! [click here]**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**If You want to learn how to use Lime-Engine and its entirety! [click here]**
 
-### Markdown
+### What is Lime Engine:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lime Engine is an Entire **Community Based Rythem Game Engine**
+With features from peaple like you!
 
-```markdown
-Syntax highlighted code block
+Lime-Engine is also compatiable with other engines like
 
-# Header 1
-## Header 2
-### Header 3
+- Haxe Develop
+- Godot
+- Unity
+- ProDevloper
+- UnrealEngine
 
-- Bulleted
-- List
+### Previews
 
-1. Numbered
-2. List
+![Song Select](cs)
 
-**Bold** and _Italic_ and `Code` text
+![Gameplay#1](cs)
 
-[Link](url) and ![Image](src)
-```
+![Gameplay#2](cs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Gameplay#3](cs)
 
-### Jekyll Themes
+![Menu](cs)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lime-Engine/Lime-Engine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Settings#1](cs)
 
-### Support or Contact
+![Settings#2](cs)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Features!
+- New Input System! Like no Other
+- Reworked Ratings
+- Customizable Keybinds
+- Backround Selecter
+- Advanced Gameplay Options
+- Custom Notes
+- 2, 3, 4, 6, 8 key Versions Avaliable
+- Custom Charts and Modifications made by the community!
+- New Mechanics and Gameplay
+- Modcharts!
+- COMPLETELY OPEN SOURCE !
+
+### Credits
