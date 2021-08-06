@@ -1,10 +1,14 @@
-## Lime Engine
+## Lime Engine Page Source
 
-**If you want to help on the project you can suggest features and bugs! [click here]**
+**If you want to help on the project you can suggest features and bugs! [click here](https://github.com/Lime-Engine/Lime-Engine/pulls)**
 
-**If You want to learn how to use Lime-Engine and its entirety! [click here]**
+**If You want to learn how to use Lime-Engine Then Check out our Guides! [click here](https://github.com/Lime-Engine/Lime-Engine/wiki)**
 
-### What is Lime Engine:
+**If You want to View ChangeLogs! [click here](https://kadedevteam.github.io/ChangeLog/)**
+
+**[Home](https://lime-engine.github.io/Lime-Engine/)**
+
+## What is Lime Engine:
 
 Lime Engine is an Entire **Community Based Rythem Game Engine**
 With features from peaple like you!
