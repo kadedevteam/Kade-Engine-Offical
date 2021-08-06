@@ -128,15 +128,27 @@ Lime-Engine is also compatiable with other engines like
 ## Credits
 
 ### Programers
+
     Blue2Gamer
+    
 ### Artist
+
     Pinky1083
+    
     Splotststs2313
+    
     newDev
+    
 ### Other
+
     The Community!!
+    
 ### Supporters
+
     Masty13
+    
     Cooolkid213
+    
     thatboyeligha
+    
     omgKarina
