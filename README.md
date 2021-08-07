@@ -1,16 +1,26 @@
-## Lime Engine Page Source
+## Kade Engine Page Source
 
 **If you want to help on the project you can suggest features and bugs! [click here](https://github.com/Lime-Engine/Lime-Engine/pulls)**
 
-**If You want to learn how to use Lime-Engine Then Check out our Guides! [click here](https://github.com/kadedevteam/Lime-Engine-Web/wiki)**
+**If You want to learn how to use Kade-Engine Then Check out our Guides! [click here](https://github.com/kadedevteam/Lime-Engine-Web/wiki)**
 
 **If You want to View ChangeLogs! [click here](https://kadedevteam.github.io/ChangeLog/)**
 
-**[Home](https://lime-engine.github.io/Lime-Engine/)**
+**[HomePage](https://lime-engine.github.io/Lime-Engine/)**
 
-## What is Lime Engine:
+![image](https://user-images.githubusercontent.com/84461200/128559798-11c54ea4-16e6-45c3-a0e4-c129783c3823.png)
 
-Lime Engine is an Entire **Community Based Rythem Game Engine**
+## Friday Night Funkin'
+Friday Night Funkin' is a rythem game expirence made with this engine but we modified it and made it its own thing!
+
+Links: [itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ 
+`
+ KadeDev
+`
+
+## What is Kade Engine:
+
+Kade Engine is an Entire **Community Based Rythem Game Engine**
 With features from peaple like you!
 
 Lime-Engine is also compatiable with other engines like
