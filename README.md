@@ -2,7 +2,7 @@
 
 **If you want to help on the project you can suggest features and bugs! [click here](https://github.com/Lime-Engine/Lime-Engine/pulls)**
 
-**If You want to learn how to use Lime-Engine Then Check out our Guides! [click here](https://github.com/Lime-Engine/Lime-Engine/wiki)**
+**If You want to learn how to use Lime-Engine Then Check out our Guides! [click here](https://github.com/kadedevteam/Lime-Engine-Web/wiki)**
 
 **If You want to View ChangeLogs! [click here](https://kadedevteam.github.io/ChangeLog/)**
 
