@@ -9,3 +9,12 @@
 - [1.5.1](changelog-1.5.1)
 - [1.5.0](changelog-1.5.0)
 - [1.4.2 and before](changelog-pre)
+
+# Updates
+
+**Current Updates**
+- No Current Updates
+
+**Past Updates**
+- "Wiki/Adding Custom Weeks/" Patched and fixed
+- "OutdatedSubState.hx" Fixed!
