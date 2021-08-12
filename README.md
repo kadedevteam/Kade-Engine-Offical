@@ -1,13 +1,3 @@
-## Kade Engine Page Source
-
-**If you want to help on the project you can add brand new things or point out and fix bugs and glitches! [click here](https://github.com/Lime-Engine/Lime-Engine/pulls)**
-
-**If You want to learn how to use Kade-Engine Then Check out our Guides! [click here](https://github.com/kadedevteam/Lime-Engine-Web/wiki)**
-
-**If You want to View ChangeLogs! [click here](https://kadedevteam.github.io/ChangeLog/)**
-
-**View Our Homepage here! [click here](https://lime-engine.github.io/Lime-Engine/)**
-
 ![image](https://user-images.githubusercontent.com/84461200/128559798-11c54ea4-16e6-45c3-a0e4-c129783c3823.png)
 
 ## Friday Night Funkin'
