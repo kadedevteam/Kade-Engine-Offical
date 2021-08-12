@@ -46,15 +46,15 @@
 
 ### By Us!
 
-[Kade-Engine]()
-[Funkin +]()
-[Kade-Engine-Pro (Source)]()
+- [Kade-Engine]()
+- [Funkin +]()
+- [Kade-Engine-Pro (Source)]()
 
 ### COMMUNITY!!
 
-[Fps+]()
-[FNF-Recharted]()
-[Wisp-Engine]()
-[Step-Engine]()
-[Kade-Engine-Pro]() (Contributed)!
+- [Fps+]()
+- [FNF-Recharted]()
+- [Wisp-Engine]()
+- [Step-Engine]()
+- [Kade-Engine-Pro]() (Contributed)!
 
