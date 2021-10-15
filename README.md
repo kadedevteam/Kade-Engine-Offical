@@ -35,14 +35,12 @@ With features from peaple like you!
 
 ## Features!
 - **New Input System! Like no other**
-
      Arrows Are on Time
      
      Sleek Inputs
      
      Customizable Offset 
      
-
 - **Reworked Ratings**
 
      Rating Systems are accruate depending on offset
